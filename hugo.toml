@@ -1,0 +1,4 @@
+baseURL = 'https://jvujjini.github.io/'
+languageCode = 'en-us'
+title = 'Jagan Vujjini'
+theme = 'ananke'
